@@ -1,6 +1,6 @@
 Ready to build your football empire? Welcome to Capitalist FC!
 
-This game is a spinoff of the movile game Adventure Capitalist, with a twist! You can choose your club name and jersey, hire managers, purchase players, & buy upgrades to get 10000 fans as quick as possible!
+This game is a spinoff of the mobile game Adventure Capitalist, with a twist! You can choose your club name and jersey, hire managers, purchase players, & buy upgrades to get 10000 fans as quick as possible!
 
 To Play:
 
