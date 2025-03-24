@@ -1,6 +1,11 @@
-Run game by running "frameWelcome.java".
+Ready to build your football empire? Welcome to Capitalist FC!
 
-Ensure all resources are downloaded.
+This game is a spinoff of the movile game Adventure Capitalist, with a twist! You can choose your club name and jersey, hire managers, purchase players, & buy upgrades to get 10000 fans as quick as possible!
+
+To Play:
+  Download all resources.
+  Run the game by executing "frameWelcome.java" on your choice of java compiler (I suggest [VSCode](https://code.visualstudio.com/)).
+Good luck building your fanbase!
 
 ![image](https://github.com/user-attachments/assets/c7968fb2-ecc6-4971-bbfb-a5fa5c31c840)
 ![image](https://github.com/user-attachments/assets/1449ee07-4948-4658-ac58-04e9432a40ec)
